@@ -4,3 +4,4 @@
 
 Строка 4 (feature-a)
 Строка 5 (feature-a)
+Строка 4(feature-b)
